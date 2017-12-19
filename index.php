@@ -4,7 +4,7 @@
 		<title></title>
 	</head>
 <body>
-	<img src = "class.png"> 
+	<img src = "class2.png"> 
 </body>
 
 </html>
